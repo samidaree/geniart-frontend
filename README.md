@@ -1,7 +1,7 @@
 # Geniart 
 AI-powered image generation tool using DALL·E made with React, Node.js, Express and Tailwind CSS
 
-##Demo 
+## Demo 
 ![](demo.gif) 
 
 ## Live Project 
